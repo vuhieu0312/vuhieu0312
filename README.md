@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hieu Vu
 
-🚀 Backend Developer | Spring Boot
+Backend Developer
 
 ## 🛠️ Tech Stack
 
