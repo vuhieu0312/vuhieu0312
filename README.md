@@ -8,19 +8,13 @@
 
 ### Backend
 - Java, Spring Boot, Spring Security
-- REST API, Microservices
+- REST AP
 
 ### Database
 - MySQL, MongoDB
 
-### AI / ML
-- PyTorch, TensorFlow
-- RAG, LLMs
-
 ### Tools
 - Git, Docker, Postman
-
----
 
 ## 📌 Projects
 
@@ -30,6 +24,3 @@ Ride-sharing platform with:
 - Real-time chat
 - Payment integration
 
-### 🔐 Identity Service
-- Authentication & Authorization (JWT)
-- Spring Security
