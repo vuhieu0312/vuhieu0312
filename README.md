@@ -21,4 +21,3 @@ Ride-sharing platform with:
 - Booking system
 - Real-time chat
 - Payment integration
-
