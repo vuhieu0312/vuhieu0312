@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Hieu Vu
 
-<!--
-**vuhieu0312/vuhieu0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | Spring Boot | AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Backend
+- Java, Spring Boot, Spring Security
+- REST API, Microservices
+
+### Database
+- MySQL, MongoDB
+
+### AI / ML
+- PyTorch, TensorFlow
+- RAG, LLMs
+
+### Tools
+- Git, Docker, Postman
+
+---
+
+## 📌 Projects
+
+### 🚗 RideUp
+Ride-sharing platform with:
+- Booking system
+- Real-time chat
+- Payment integration
+
+### 🔐 Identity Service
+- Authentication & Authorization (JWT)
+- Spring Security
