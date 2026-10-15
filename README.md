@@ -6,10 +6,10 @@ Backend Developer
 
 ### Backend
 - Java, Spring Boot, Spring Security
-- REST AP
+- REST API
 
-### Database
-- MySQL, MongoDB
+### Database & Cache
+- MySQL, MongoDB, Redis
 
 ### Tools
 - Git, Docker, Postman
